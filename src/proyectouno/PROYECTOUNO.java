@@ -1,6 +1,6 @@
 
 package proyectouno;
-
+//Hola amigo "cualquier cosa"
 
 public class PROYECTOUNO {
 
