@@ -1,7 +1,7 @@
 
 package proyectouno;
-
-
+//otra cosa
+//dos cosas
 public class PROYECTOUNO {
 
     /**
